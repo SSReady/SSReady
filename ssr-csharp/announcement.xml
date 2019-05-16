@@ -2,7 +2,7 @@
 <rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:files="https://sourceforge.net/api/files.rdf#" xmlns:media="http://video.search.yahoo.com/mrss/" xmlns:doap="http://usefulinc.com/ns/doap#" xmlns:sf="https://sourceforge.net/api/sfelements.rdf#" version="2.0">
   <channel xmlns:files="https://sourceforge.net/api/files.rdf#" xmlns:media="http://video.search.yahoo.com/mrss/" xmlns:doap="http://usefulinc.com/ns/doap#" xmlns:sf="https://sourceforge.net/api/sfelements.rdf#">
     <item>
-      <media:content xmlns:media="http://video.search.yahoo.com/mrss/" type="application/zip; charset=binary" announcement="¡¾²âÊÔ¹«¸æ¡¿´ó¼ÒºÃ£¬ÎÒÊÇÁ·Ï°Ê±³¤Á½Äê°ëµÄ¸öÈËÁ·Ï°Éú²ÌÐìÀ¤£¬Ï²»¶ ³ª Ìø rap ÀºÇò Music~¼¦ÄãÌ«ÃÀ~" url="https://www.bilibili.com/video/av47441335"></media:content>
+      <media:content xmlns:media="http://video.search.yahoo.com/mrss/" type="application/zip; charset=binary" announcement="ã€æµ‹è¯•å…¬å‘Šã€‘å¤§å®¶å¥½ï¼Œæˆ‘æ˜¯ç»ƒä¹ æ—¶é•¿ä¸¤å¹´åŠçš„ä¸ªäººç»ƒä¹ ç”Ÿè”¡å¾å¤ï¼Œå–œæ¬¢ å”± è·³ rap ç¯®çƒ Music~é¸¡ä½ å¤ªç¾Ž~" url="https://www.bilibili.com/video/av47441335" website="https://ssready.net/"></media:content>
     </item>
   </channel>
 </rss>
