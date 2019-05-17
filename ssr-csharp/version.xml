@@ -2,7 +2,7 @@
 <rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:files="https://sourceforge.net/api/files.rdf#" xmlns:media="http://video.search.yahoo.com/mrss/" xmlns:doap="http://usefulinc.com/ns/doap#" xmlns:sf="https://sourceforge.net/api/sfelements.rdf#" version="2.0">
   <channel xmlns:files="https://sourceforge.net/api/files.rdf#" xmlns:media="http://video.search.yahoo.com/mrss/" xmlns:doap="http://usefulinc.com/ns/doap#" xmlns:sf="https://sourceforge.net/api/sfelements.rdf#">
     <item>
-      <media:content xmlns:media="http://video.search.yahoo.com/mrss/" type="application/zip; charset=binary" url="https://cdn.ssready.io/downloads/ssr/releases/ShadowsocksR-win-5.0.0.zip"></media:content>
+      <media:content xmlns:media="http://video.search.yahoo.com/mrss/" type="application/zip; charset=binary" url="https://cdn.ssready.io/downloads/ssr/releases/ShadowsocksR-win-5.0.0.zip" log="修复 PAC 文件无法更新的问题；///修复软件无法更新的问题；///增加更新大陆 IP 列表功能；///增加 SSReady 入口；///重新设计 UI，优化菜单逻辑。"></media:content>
     </item>
   </channel>
 </rss>
